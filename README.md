@@ -4,8 +4,6 @@
 
 
 [![downloads](https://img.shields.io/npm/dt/pokemon-random.svg)](https://www.npmjs.com/package/pokemon-random)
-
-
 [![npm](https://img.shields.io/npm/v/pokemon-random.svg)](https://www.npmjs.com/package/pokemon-random)
 
 
