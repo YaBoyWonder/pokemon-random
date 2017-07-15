@@ -2,7 +2,7 @@
 # Pokemon Random
 
 
-
+[![Discord](https://discordapp.com/api/guilds/304768817526210562/embed.png)](https://discord.gg/TsaGrwg)
 [![downloads](https://img.shields.io/npm/dt/pokemon-random.svg)](https://www.npmjs.com/package/pokemon-random)
 [![npm](https://img.shields.io/npm/v/pokemon-random.svg)](https://www.npmjs.com/package/pokemon-random)
 ![License](https://img.shields.io/dub/l/vibe-d.svg)
