@@ -27,3 +27,17 @@ npm install pokemon-random --save
 
 ```
 
+
+
+
+**Example Code** 
+For Pokemon Names
+
+```js
+const pokemonQ = require('./randomPokemon')()
+const pokemonR = require('./randomPokemon')()
+
+console.log('pokemonQ', pokemonQ)
+console.log('pokemonR', pokemonR)
+
+```
