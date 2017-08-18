@@ -29,17 +29,14 @@ This Module Contains Pokemon from Generation 1-7.
 To install, simply run the following command in your terminal (from your project directory):
 
 ```
-
 npm install pokemon-random --save
-
-
 ```
 
 
 
 
 **Example Code** 
-For Pokemon Names
+For Calling The Pokemon Names
 
 ```js
 const pokemonQ = require('./randomPokemon')()
