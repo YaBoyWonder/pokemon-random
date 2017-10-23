@@ -22,7 +22,7 @@ A simple project I decided to create to help fuel <a href="https://github.com/Wo
 
 
 This Module Contains Pokemon from Generation 1-7.
-*and soon berries*
+*and soon berries* 
 
 **Getting Started** 
 
