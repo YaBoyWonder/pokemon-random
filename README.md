@@ -34,7 +34,7 @@ To install, simply run the following command in your terminal (from your project
 npm install pokemon-random --save
 ```
 
-
+You can also use __yarn__ if you prefer as well
 
 
 **Example Code** 
