@@ -7,7 +7,7 @@
   <p>
     <a href="https://discord.gg/3Chh8gu"><img src="https://discordapp.com/api/guilds/334745231163654145/embed.png" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/npm/v/pokemon-random.svg?maxAge=3600" alt="NPM version" /></a>
-        <a href="https://www.npmjs.com/package/pokemon"><img src="https://img.shields.io/npm/dt/pokemon.svg?maxAge=3600" alt="NPM downloads" /></a>
+        <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/badge/downloads-6k-brightgreen.svg" alt="NPM downloads" /></a>
     
    <!-- <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/npm/dt/pokemon-random.svg?maxAge=3600" alt="NPM downloads" /></a> -->
 
