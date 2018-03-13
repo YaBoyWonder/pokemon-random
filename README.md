@@ -19,6 +19,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/YaBoyWonder/pokemon-random.svg)](https://greenkeeper.io/)
+
  
 A Module I decided to create to help fuel <a href="https://github.com/Wonder-Toast/pokebot">PokeBot</a> and also for users to use and enjoy!
 
