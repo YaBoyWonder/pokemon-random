@@ -36,7 +36,10 @@ npm install pokemon-random --save
 
 You can also use <a href="https://yarnpkg.com/en/">__yarn__</a> if you prefer as well
 <br></br>
-
+```
+yarn add pokemon-random 
+```
+<br></br>
 **Example Code** 
 For Calling The Pokemon Names
 
