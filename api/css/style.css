@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  header {
+    background-image: url("IMAGE_LINK");
+    height: 100vh;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: red;
+  
+  
+  }
+  
