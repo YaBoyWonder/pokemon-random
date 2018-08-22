@@ -19,9 +19,6 @@
 
 ## About
 
- 
-A Module I decided to create to help fuel <a href="https://github.com/Wonder-Toast/pokebot">PokeBot</a> and also for users to use and enjoy!
-
 
 This Module Contains Pokemon from Generation 1-7.
 *and soon berries* 
