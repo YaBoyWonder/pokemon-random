@@ -1,0 +1,26 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="css/style.css">
+  
+  </head>
+
+<script type="text/javascript">
+  var lastIndex = 0;
+			
+  function randomImage() {
+  //code in dir/main 
+  }
+			
+  function openimage() {
+  var imgFullURL = document.getElementById('myimage').src;
+  window.open(imgFullURL);
+  }
+</script>  
+  <body onload="randomImage()">
+
+	<a href="hoot.html"><button>New Random Image</button></a>
+	<button onclick="openimage()">view Image</button>
+  
+  </body>
+  <script src="main.js"></script>
+</html>
