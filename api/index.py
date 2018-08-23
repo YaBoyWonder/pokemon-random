@@ -7,7 +7,12 @@ import utils
 from collections import namedtuple
 from flask import Flask, jsonify, send_from_directory, abort, send_file, render_template
 
-
+try:
+    with open("config.json", encoding='utf-8') as data:
+        config = json.load(data, object_hook=lambda d: namedtuple('X', d.keys())(*d.values()))
+except FileNotFoundError:
+    print("Unable to Read config.json")
+    sys.exit()
 
 app = Flask(__name__)
 

@@ -7,7 +7,7 @@
   <p>
     <!-- <a href="https://discord.gg/3Chh8gu"><img src="https://discordapp.com/api/guilds/334745231163654145/embed.png" alt="Discord server" /></a> -->
     <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/npm/v/pokemon-random.svg?maxAge=3600" alt="NPM version" /></a>
-        <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/badge/downloads-22k-brightgreen.svg" alt="NPM downloads" /></a>
+        <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/badge/downloads-47k-brightgreen.svg" alt="NPM downloads" /></a>
     
    <!-- <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/npm/dt/pokemon-random.svg?maxAge=3600" alt="NPM downloads" /></a> -->
 
@@ -22,6 +22,8 @@
 
 This Module Contains Pokemon from Generation 1-7.
 *and soon berries* 
+
+Want the API? then go <a href="https://github.com/YaBoyWonder/pokemon-random/tree/master/api">here</a>
 
 **Getting Started** 
 
@@ -41,10 +43,12 @@ yarn add pokemon-random
 For Calling The Pokemon Names
 
 ```js
-const pokemonQ = require('./randomPokemon')()
-const pokemonR = require('./randomPokemon')()
+const pokemonQ = require('pokemon-random')()
+const pokemonR = require('pokemon-random')()
 
 console.log('pokemonQ', pokemonQ)
 console.log('pokemonR', pokemonR)
 
 ```
+<br>
+<a href="https://github.com/YaBoyWonder/pokemon-random/blob/master/LICENSE.md">License</a>

@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/YaBoyWonder/pokemon-random.git"
   },
-   "keywords": [
+  "keywords": [
     "pokemon",
     "random",
     "node.js"
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/YaBoyWonder/pokemon-random/issues"
   },
-  "homepage": "https://github.com/YaBoyWonder/pokemon-random#readme"
+  "homepage": "https://github.com/YaBoyWonder/pokemon-random#readme",
+  "dependencies": {
+    "pokemon-random": "^1.2.5"
+  }
 }
