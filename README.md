@@ -25,6 +25,7 @@ This Module Contains Pokemon from Generation 1-7.
 
 Want the API? then go <a href="https://github.com/YaBoyWonder/pokemon-random/tree/master/api">here</a>
 
+<br></br>
 **Getting Started** 
 
 To install, simply run the following command in your terminal (from your project directory):
