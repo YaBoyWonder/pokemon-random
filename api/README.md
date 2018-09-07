@@ -10,3 +10,6 @@
 
 
 **Project:** Not Finished Yet
+
+<br></br>
+Want **Beta** Access?  Leave a issue request saying so
